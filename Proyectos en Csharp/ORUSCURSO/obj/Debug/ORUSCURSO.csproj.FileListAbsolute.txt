@@ -1,0 +1,11 @@
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\bin\Debug\ORUSCURSO.exe.config
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\bin\Debug\ORUSCURSO.exe
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\bin\Debug\ORUSCURSO.pdb
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.csproj.AssemblyReference.cache
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Properties.Resources.resources
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.csproj.GenerateResource.cache
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.csproj.CoreCompileInputs.cache
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.exe
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.pdb
+C:\Users\itsva\Desktop\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.MenuPrincipal.resources
